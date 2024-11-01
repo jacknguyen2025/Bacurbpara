@@ -1,0 +1,8 @@
+[general]
+name=Bacurbpara
+description= Create and Update Urban Parameters Fields
+qgisMinimumVersion=3.0
+version=1.2
+author=Jack Nguyen
+email=jacknguyen2025@gmail.com
+icon=icon.png
